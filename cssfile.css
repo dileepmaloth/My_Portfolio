@@ -1,0 +1,148 @@
+.all{
+	height:610px;
+	width:100%;
+	background-image:url(redd.jpg);
+	margin-top:0px;
+}
+.pic{
+	margin-left:20px;
+	margin-top:70px;
+	border:10px;
+	color:yellow;
+}
+
+.my{
+	font-family: 'Lobster', cursive;
+	font-size:20px;
+}
+
+ul li{
+	margin-top:10px;
+	float:right;
+	list-style-type:none;
+	background-position:top;
+	margin-left:50px;
+	margin-right:25px;
+	font:italic;
+	font-size:24px;
+	
+}
+a:active{	color:red; 	}
+a:hover{	color:green;	}
+
+.name{
+	margin-left:500px;
+	margin-top:-420px;
+	font-family: 'Dancing Script', cursive;
+	font-size:65px;
+}
+	
+	
+h1{
+	margin-left:600px;
+	margin-top:0px;
+	font-size:45px;
+	font-family: 'Dancing Script', cursive;
+
+}
+
+
+
+/* ... Hobbies ..*/
+.alll{
+	height:610px;
+	width:100%;
+	background-image:url(a6.jpg);
+	margin-top:0px;
+}
+ol li{
+	list-style-type:none;
+	margin-left:200px;
+	margin-top:20px;
+	font-size:50px;
+	font-family: 'Dancing Script', cursive;
+	color:#00bfff;
+
+	
+	
+}
+.hb{
+	font-size:65px;
+	margin-left:110px;
+	margin-top:100px;
+	font-family: 'Courgette', cursive;
+	color:#4682b4
+	
+}
+
+
+
+
+/*.... Achivements..*/
+.ach{
+height:610px;
+	width:100%;
+	background-image:url(a1.png);
+	margin-top:0px;
+	color:#e6e6fa;
+}
+
+.achi{
+	font-size:40px;
+	margin-left:50px;
+	margin-top:180px;
+	font-family: 'Dancing Script', cursive;
+	color:#f0f8ff;
+
+}
+.ac{
+	font-size:70px;
+	margin-left:20px;
+	margin-top:110px;
+	font-family: 'Kaushan Script', cursive;
+
+}
+	
+
+/*contacts*/
+
+.con {
+	height:610px;
+	width:100%;
+	background-image:url(sha.jpg);
+
+}
+
+
+
+.fb{
+	padding-left:1100px;
+	padding-top:490px;
+}
+.insta{
+	
+	padding-left:1170px;
+	margin-left:20px;
+	margin-top:-69px;
+	border-radius:10px;
+}
+.p{
+	font-size:50px;
+	margin-top:353px;
+	margin-left:150px;
+	font-family: 'Dancing Script', cursive;
+	color:#e0ffff;
+	
+}
+
+.pp{
+	
+	font-size:70px;
+	margin-top:-503px;
+	margin-left:550px;
+	font-family: 'Dancing Script', cursive;
+	color:#fff0f5;
+	
+}
+
+
